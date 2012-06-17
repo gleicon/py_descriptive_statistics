@@ -16,11 +16,8 @@ setup(
         # metadata for upload to PyPI
         author          = "Gleicon Moraes",
         author_email    = "gleicon@gmail.com",
-        keywords        = "descriptive statistics enum mean percentile standard
-        deviation variance stats metrics",
-        description     = "Descriptive Statistcs for Python - simple library
-        that implements mean, variance, std deviation, percentile over lists of
-        numbers",
+        keywords        = "descriptive statistics enum mean percentile standard deviation variance stats metrics",
+        description     = "Descriptive Statistcs for Python - simple library that implements mean, variance, std deviation, percentile over lists of numbers",
         url             = "https://github.com/gleicon/py_descriptive_analysis",
     )
 

@@ -1,3 +1,7 @@
 *.pyc
 *.rdb
 *~
+
+build/
+dist/
+py_descriptive_statistics.egg-info/
