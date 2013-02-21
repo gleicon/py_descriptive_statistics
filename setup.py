@@ -8,7 +8,7 @@ log.set_threshold(log.INFO)
 
 setup(
         name            = "py_descriptive_statistics",
-        version         = "0.1",
+        version         = "0.2",
 
         packages        = ['py_descriptive_statistics', ],
         zip_safe = False,
@@ -18,6 +18,7 @@ setup(
         author_email    = "gleicon@gmail.com",
         keywords        = "descriptive statistics enum mean percentile standard deviation variance stats metrics",
         description     = "Descriptive Statistcs for Python - simple library that implements mean, variance, std deviation, percentile over lists of numbers",
-        url             = "https://github.com/gleicon/py_descriptive_analysis",
+        url             =
+        "https://github.com/gleicon/py_descriptive_statistics",
     )
 
